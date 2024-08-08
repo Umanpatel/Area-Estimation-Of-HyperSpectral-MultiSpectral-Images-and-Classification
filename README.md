@@ -50,18 +50,6 @@ The model is trained and validated using the split datasets, and the performance
 
 Fig.2  The IN dataset classification result (Overall Accuracy 99.81%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend. 
 
-### University of Pavia (UP) dataset
-
-<img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/> <img src="figure/UP_legend.jpg" width="200" height="100"/>
-
-Fig.3  The UP dataset classification result (Overall Accuracy 99.99%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend.
-
-### Salinas Scene (SS) dataset
-
-<img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/> <img src="figure/SA_legend.jpg" width="300" height="150"/>
-
-Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
-
 ## Conclusion
 
 This project demonstrates the successful implementation of a CNN-based model for hyperspectral image classification and area estimation. The use of PCA for feature extraction and the conversion of datasets into 3D format were critical in achieving high accuracy.
